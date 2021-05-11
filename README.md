@@ -1,4 +1,4 @@
-Este é um projeto para seleção na empresa [App-master](https://appmaster.io/), e ele está disponível online no seguinte [endereço](http://localhost:3000)
+Este é um projeto para seleção na empresa [App-master](https://appmasters.io/en/), e ele está disponível online no seguinte [endereço](app-master-teste.vercel.app)
 
 Para esse projeto foi utilizado as seguintes ferramentas.:
 
