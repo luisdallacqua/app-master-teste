@@ -1,16 +1,17 @@
-This is a boilerplate to make easier and faster to start a single project with linter, prettier and global theme.
+Este é um projeto para seleção na empresa [App-master](https://appmaster.io/), e ele está disponível online no seguinte [endereço](http://localhost:3000)
 
-This Project uses:
+Para esse projeto foi utilizado as seguintes ferramentas.:
 
-- [React](https://www.https://reactjs.org/)
+- [React](https:/www.https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com/)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
+- [Axios](https://github.com/axios/axios)
 
-## Getting Started
+## Para rodar o projeto na máquina local
 
-First, run the development server:
+Faça o download do projeto, após isso, vá até a pasta do projeto e rode os seguintes comandos:
 
 ```bash
 npm install
@@ -18,4 +19,4 @@ npm install
 npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) no seu navegador e será possível ver o resultado do projeto.

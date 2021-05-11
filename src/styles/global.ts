@@ -31,8 +31,11 @@ const GlobalStyles: GlobalStyleComponent<
 
   ${({ theme, addBackgroundColor }) => css`
     body {
-      font-family: ${theme.font.family};
-      font-size: ${theme.font.sizes.medium};
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+        'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+        'Helvetica Neue';
+      font-size: 1.6rem;
+      background-color: ${theme.colors.white};
       ${addBackgroundColor &&
       css`
         background-color: ${theme.colors.black};
